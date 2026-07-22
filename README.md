@@ -20,3 +20,9 @@ backpropagation, gradient descent, and eventually a GPT-style transformer
 ## Notes
 Each folder contains my own notebook for that stage, with comments 
 explaining my understanding as I build — not just following along silently.
+
+## Realization
+Learning through videos is very hard for me and I prefer reading as
+my mode of learning. I'm moving on to courses, books, and certifications
+that focus in reading as the primary mode of learning accompanied with
+building to anchor the skills. 
